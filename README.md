@@ -22,7 +22,7 @@ The code for this project that builds the [nemonik/drone](https://hub.docker.com
 
 Please, don't confuse the two licenses.
 
-## How do I use this container image?
+## How do I use the nemonik/drone container image?
 
 Here's an example docker-compose.yml file using this contaier image integrated with self-hosted GitLab.
 
