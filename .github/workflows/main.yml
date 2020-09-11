@@ -21,7 +21,7 @@ jobs:
           cd /tmp
           git -c http.sslVerify=false clone https://github.com/drone/drone.git
           cd drone
-          export TAG=$(git describe --tags $(git rev-list --tags --max-count=1)
+          export TAG=$(git describe --tags $(git rev-list --tags --max-count=1))
           echo "::set-env name=TAG::$TAG"
           
       - name: Check $TAG
