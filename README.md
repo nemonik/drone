@@ -1,4 +1,4 @@
-# drone-server with nolimits
+# A containerized drone-server with nolimits
 
 A containerized Enterprise Edition drone-server built with nolimits.
 
