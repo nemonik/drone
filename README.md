@@ -4,7 +4,7 @@ A containerized Enterprise Edition drone-server built with nolimits.
 
 ## Why?
 
-The [drone/drone container image you pull from Docker Hub]( https://hub.docker.com/r/drone/drone) is the Enterprise Edition and without a license is free for a trial period of 5000 builds after which you will need to seek to obtain a license via their [website](https://drone.io/enterprise). 
+The [drone/drone container image you pull from Docker Hub]( https://hub.docker.com/r/drone/drone) is the Enterprise Edition and without a license is free for a trial period of 5000 builds after which you will need to obtain a license via their [website](https://drone.io/enterprise). 
 
 As per <https://docs.drone.io/enterprise/#what-is-the-difference-between-open-source-and-enterprise>, the Drone Enterprise Edition is free for organizations with under $1 million US dollars in annual gross revenue and less than $5 million in debt or equity funding.
 
@@ -14,7 +14,7 @@ This project builds and containerized the Enterprise Edition with nolimits so yo
 
 ## License
 
-Be careful using this container image as you must meet the obligations and conditions of the [license](https://github.com/drone/drone/blob/master/LICENSE) as not doing so will be subject to penalty under US Federal and International copyright law.
+Be careful using this container image as you must meet the obligations and conditions of the [license](https://github.com/drone/drone/blob/master/LICENSE) as not doing so will be subject you or your organization to penalty under US Federal and International copyright law.
 
 A copy of the Drone Enterprise Edition license can be found [here](https://github.com/drone/drone/blob/master/LICENSE).
 
