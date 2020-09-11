@@ -18,9 +18,9 @@ Be careful using this container image as you must meet the obligations and condi
 
 A copy of the Drone Enterprise Edition license can be found [here](https://github.com/drone/drone/blob/master/LICENSE).
 
-The code the project that builds this image and pushes it to Docker Hube is distributed under the BSD 3-Clause "New" or "Revised" License and can be read [here](LICENSE).
+The code for this project that builds the [nemonik/drone](https://hub.docker.com/r/nemonik/drone) image and pushes it to Docker Hub is distributed under the BSD 3-Clause "New" or "Revised" License and can be read [here](LICENSE).
 
-Please, don't confuse the two.
+Please, don't confuse the two licenses.
 
 ## How do I use this container image?
 
