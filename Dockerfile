@@ -4,7 +4,7 @@ RUN apk add --no-cache alpine-sdk && \
     git -c http.sslVerify=false clone https://github.com/drone/drone.git && \
     cd drone && \
     export TAG=$(git describe --tags $(git rev-list --tags --max-count=1)) && \
-    git checkout tags/$TAG -b $TAG
+    git checkout tags/$TAG -b $TAG && \
     go build -tags "nolimit" ./cmd/drone-server
 
 FROM alpine
