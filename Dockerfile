@@ -1,8 +1,10 @@
 FROM golang:1.14.4-alpine as builder
 WORKDIR /build
 RUN apk add --no-cache alpine-sdk && \
-    git clone --depth 1 https://github.com/drone/drone.git && \
+    git -c http.sslVerify=false clone https://github.com/drone/drone.git && \
     cd drone && \
+    export TAG=$(git describe --tags $(git rev-list --tags --max-count=1)) && \
+    git checkout tags/$TAG -b $TAG
     go build -tags "nolimit" ./cmd/drone-server
 
 FROM alpine
