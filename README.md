@@ -1,6 +1,6 @@
 # drone-server with nolimits
 
-A containerized Enterprise Edition drone-server built with `nolimit`s.
+A containerized Enterprise Edition drone-server built with nolimits.
 
 ## Why?
 
