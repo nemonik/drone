@@ -10,7 +10,7 @@ The [drone/drone container image you pull from Docker Hub]( https://hub.docker.c
 
 As per <https://docs.drone.io/enterprise/#what-is-the-difference-between-open-source-and-enterprise>, the Drone Enterprise Edition is free for organizations with under $1 million US dollars in annual gross revenue and less than $5 million in debt or equity funding.
 
-You can build the Enterprise Edition as well as the severely limited Open Source Edition -- The two can be compared [here](https://drone.io/enterprise/opensource/#features). -- from source using the build tags described [here](https://docs.drone.io/enterprise/#what-is-the-difference-between-open-source-and-enterprise). 
+You can build the Enterprise Edition as well as the severely limited Open Source Edition -- The two can be compared [here](https://docs.drone.io/enterprise/#what-is-the-difference-between-open-source-and-enterprise). -- from source using the build tags described [here](https://docs.drone.io/enterprise/#how-do-i-use-the-enterprise-edition-for-free). 
 
 This project builds and containerized the Enterprise Edition with nolimits so you can use it for free, if you or your organization falls within the requirements of the [license](https://github.com/drone/drone/blob/master/LICENSE).
 
