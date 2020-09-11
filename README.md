@@ -111,7 +111,7 @@ You will need to modify the above following Drone's [GitLab integration document
 Then provided you have docker and docker-compose installed, spin up Drone
 
 ```
-docker-comppose up
+docker-compose up -d
 ```
 
 To scale to 10 runners simply enter into the cli
