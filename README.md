@@ -24,7 +24,7 @@ Please, don't confuse the two licenses.
 
 ## How do I use the nemonik/drone container image?
 
-Here's an example docker-compose.yml file using this contaier image integrated with self-hosted GitLab.
+Here's an example docker-compose.yml file using this container image integrated with self-hosted GitLab.
 
 ```
 version: "2"
@@ -104,7 +104,9 @@ services:
             - drone-postgresql
 ```
 
-Provided you have docker and docker-compose installed, you'd spin up in the cli
+You will need to modify the above following Drone's [GitLab integration documentation](https://docs.drone.io/server/provider/gitlab/).
+
+Then provided you have docker and docker-compose installed, spin up Drone
 
 ```
 docker-comppose up
