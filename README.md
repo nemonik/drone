@@ -1,6 +1,6 @@
 # drone-server with nolimits
 
-A containerized Enterprise Edition drone-server built with nolimits.
+A containerized Enterprise Edition drone-server built with `nolimit`s.
 
 ## Why?
 
@@ -14,7 +14,7 @@ This project builds and containerized the Enterprise Edition with nolimits so yo
 
 ## License
 
-Be careful using this container image as you must meet the obligations and conditions to your license and is subject to penalty under US Federal and International copyright law.
+Be careful using this container image as you must meet the obligations and conditions of the [license](https://github.com/drone/drone/blob/master/LICENSE) as not doing so will be subject to penalty under US Federal and International copyright law.
 
 A copy of the Drone Enterprise Edition license can be found [here](https://github.com/drone/drone/blob/master/LICENSE).
 
