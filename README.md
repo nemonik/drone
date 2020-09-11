@@ -120,7 +120,7 @@ To scale to 10 runners simply enter into the cli
 docker-compose up -d --scale drone-runner-docker=10
 ```
 
-## Also see
+## See also
 
 I've written a number of an Ansible roles to spin up what you need
 
