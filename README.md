@@ -1,5 +1,7 @@
 # A containerized drone-server with nolimits
 
+![](https://github.com/nemonik/drone/workflows/Building%20and%20Pushed/badge.svg)
+
 A containerized Enterprise Edition drone-server built with nolimits.
 
 ## Why?
