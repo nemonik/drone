@@ -100,8 +100,6 @@ services:
             hard: "262144"
         ports:
             - 80:80
-        volumes:
-            - ./volumes/drone-server/var/lib/drone:/var/lib/drone:Z
         depends_on:
             - drone-postgresql
 ```
