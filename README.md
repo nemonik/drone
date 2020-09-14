@@ -2,7 +2,7 @@
 
 ![](https://github.com/nemonik/drone/workflows/Building%20and%20Pushed/badge.svg)
 
-A containerized Enterprise Edition drone-server built with nolimits.
+This project builds and pushes [nemonik/drone](https://hub.docker.com/r/nemonik/drone), a containerized Enterprise Edition drone-server built with nolimits, to Docker Hub.
 
 ## Why?
 
