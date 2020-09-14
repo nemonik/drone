@@ -6,7 +6,7 @@ This project builds and pushes [nemonik/drone](https://hub.docker.com/r/nemonik/
 
 ## Why?
 
-The [drone/drone container image you pull from Docker Hub]( https://hub.docker.com/r/drone/drone) is the Enterprise Edition and without a license is free for a trial period of 5000 builds after which you will need to obtain a license via their [website](https://drone.io/enterprise). 
+The [drone/drone]( https://hub.docker.com/r/drone/drone) container image you pull from Docker Hub is the Enterprise Edition and without a license is free for a trial period of 5000 builds after which you will need to obtain a license via their [website](https://drone.io/enterprise). 
 
 As per <https://docs.drone.io/enterprise/#what-is-the-difference-between-open-source-and-enterprise>, the Drone Enterprise Edition is free for organizations with under $1 million US dollars in annual gross revenue and less than $5 million in debt or equity funding.
 
