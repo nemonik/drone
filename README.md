@@ -1,4 +1,4 @@
-# [nemonik/drone](https://hub.docker.com/r/nemonik/drone), a containerized drone-server with nolimits
+# A containerized drone-server with nolimits
 
 ![](https://github.com/nemonik/drone/workflows/Building%20and%20Pushed/badge.svg)
 
