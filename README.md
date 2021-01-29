@@ -1,4 +1,4 @@
-# A containerized drone-server with nolimits
+# [nemonik/drone](https://hub.docker.com/r/nemonik/drone), a containerized drone-server with nolimits
 
 ![](https://github.com/nemonik/drone/workflows/Building%20and%20Pushed/badge.svg)
 
@@ -24,14 +24,14 @@ The code for [the project](https://github.com/nemonik/drone) that builds the [ne
 
 Please, don't confuse the two licenses.
 
-## How do I use the nemonik/drone container image?
+## How do I use the [nemonik/drone](https://hub.docker.com/r/nemonik/drone) container image?
 
 Here's an example docker-compose.yml file using this container image integrated with self-hosted GitLab.
 
 ```
 version: "2"
 
-# Copyright (C) 2020 Michael Joseph Walsh - All Rights Reserved
+# Copyright (C) 2021 Michael Joseph Walsh - All Rights Reserved
 # You may use, distribute and modify this code under the
 # terms of the the license.
 #
